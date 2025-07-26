@@ -1,0 +1,18 @@
+<configuration>
+
+    <input>
+        <net-file value="network.net.xml"/>
+
+        <route-files value="agent_routes.rou.xml"/>
+
+    </input>
+
+    <time>
+        <begin value="21600"/>
+    </time>
+
+    <processing>
+        <ignore-route-errors value="true"/>
+    </processing>
+
+</configuration>
