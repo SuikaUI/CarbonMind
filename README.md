@@ -21,6 +21,12 @@ Tujuan utamanya adalah untuk menciptakan fondasi yang dapat digunakan untuk anal
 - **Pembuatan Rute Otomatis**: Menghasilkan file perjalanan (`.trips.xml`) dan rute (`.rou.xml`) yang kompatibel dengan SUMO menggunakan `duarouter`.
 - **Siap untuk Simulasi**: Menghasilkan semua file yang diperlukan, termasuk file konfigurasi SUMO (`.sumocfg`), untuk langsung menjalankan simulasi.
 
+## 🏗️ Arsitektur Sistem
+
+Berikut adalah diagram alur kerja sistem CarbonMind dari data mentah hingga siap simulasi:
+
+![Diagram Arsitektur Sistem](./demo/diagram.png)
+
 ## 🎥 Demo Visualisasi
 
 Berikut adalah tautan ke video demo yang menunjukkan hasil visualisasi dari simulasi lalu lintas yang dihasilkan oleh proyek ini.
