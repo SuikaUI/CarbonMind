@@ -25,7 +25,10 @@ Tujuan utamanya adalah untuk menciptakan fondasi yang dapat digunakan untuk anal
 
 Berikut adalah tautan ke video demo yang menunjukkan hasil visualisasi dari simulasi lalu lintas yang dihasilkan oleh proyek ini.
 
-[Lihat Video Demo](./demo/Visualization%20Demo.mp4)
+[![Pratinjau Simulasi Lalu Lintas](./demo/thumbnail.png)](./demo/Visualization%20Demo.mp4)
+
+**[Tonton Video Demo](./demo/Visualization%20Demo.mp4)**
+
 
 *(Catatan: Anda mungkin perlu mengunduh repository untuk melihat video ini.)*
 
